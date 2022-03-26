@@ -1,0 +1,2 @@
+1. npm install --save-dev gulp-imagemin@7.1.0. Coloca eso cuando vayas a
+usar gulp imagemin porque las versiones posteriores generan errores
